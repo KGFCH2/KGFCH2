@@ -9,7 +9,7 @@
 ---
 
 
-## 🧠 About Me
+## <img src="https://i.ibb.co/7dkS48mX/hi-unscreen.gif" width="50" height="50"> *About Me*
 
 - 🎓 I'm currently pursuing **B.Tech in Computer Science & Engineering**
 - 🧮 I **love solving mathematical problems** and logic puzzles
@@ -20,8 +20,9 @@
 
 ---
 
+## <img src="https://i.ibb.co/CKjpF4Fk/vlogger-unscreen.gif" width="40" height="40"> *Languages & Tools*
 
-## 🚀 Languages & Tools
+
 
 <table align="center">
   <tr>
@@ -58,7 +59,7 @@
 
 ---
 
-## 📈 GitHub Stats
+## <img src="https://i.ibb.co/hF6LZt1t/analytics-unscreen.gif" width="40" height="40"> *GitHub Stats*
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KGFCH2&show_icons=true&theme=tokyonight" alt="KGFCH2's GitHub stats" />
@@ -74,7 +75,7 @@
 
 ---
 
-## 📫 How to Reach Me
+## <img src="https://i.ibb.co/9kpHyRjg/agenda-unscreen.gif" width="40" height="40"> *How to Reach Me*
 
 ![Contact](https://img.shields.io/badge/-Contact_Me-181717?style=for-the-badge&logo=gmail&logoColor=white)
 
@@ -90,4 +91,4 @@
 
 ---
 
-⭐ *Thanks for visiting my profile! Let's build something amazing together!*
+<img src="https://i.ibb.co/fd277gBx/shooting-star-unscreen.gif" width="30" height="30"> *Thanks for visiting my profile! Let's build something amazing together!*
