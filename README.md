@@ -25,6 +25,7 @@
 
 
 <table align="center">
+  <tbody>
   <tr>
     <td><img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="40"></td>
     <td><strong>Programming Languages</strong></td>
