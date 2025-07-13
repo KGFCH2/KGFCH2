@@ -3,11 +3,10 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=1500&pause=800&center=true&vCenter=true&width=700&height=60&lines=Computer+Science+Engineer;Learning+Web+Development;Maths+Lover;Problem+Solver;Brainstorming;Radical+Collaboration" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1500&center=true&vCenter=true&width=700&height=60&lines=Computer+Science+Engineer;Learning+Web+Development;Maths+Lover;Problem+Solver;Brainstorming;Radical+Collaboration" />
 </p>
 
 ---
-
 
 ## <img src="https://i.ibb.co/7dkS48mX/hi-unscreen.gif" width="50" height="50"> *About Me*
 
@@ -21,8 +20,6 @@
 ---
 
 ## <img src="https://i.ibb.co/CKjpF4Fk/vlogger-unscreen.gif" width="40" height="40"> *Languages & Tools*
-
-
 
 <table align="center">
   <tbody>
