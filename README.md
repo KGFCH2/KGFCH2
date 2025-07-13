@@ -11,12 +11,12 @@
 
 ## <img src="https://i.ibb.co/7dkS48mX/hi-unscreen.gif" width="50" height="50"> *About Me*
 
-- 🎓 I'm currently pursuing **B.Tech in Computer Science & Engineering**
-- 🧮 I **love solving mathematical problems** and logic puzzles
-- 💻 I'm **curious about web development** and constantly exploring new tools
-- ⚙️ I'm driven by the **power of coding** to build and automate ideas
-- 🏏 I **love playing Cricket** to stay active and competitive
-- 🏸 I enjoy **playing Badminton** for fun and fitness
+- 🎓 I'm currently pursuing **B.Tech in Computer Science & Engineering**.
+- 🧮 I **love solving mathematical problems** and logic puzzles.
+- 💻 I'm **curious about web development** and constantly exploring new tools.
+- ⚙️ I'm driven by the **power of coding** to build and automate ideas.
+- 🏏 I **love playing Cricket** to stay active and competitive.
+- 🏸 I enjoy **playing Badminton** for fun and fitness.
 
 ---
 
