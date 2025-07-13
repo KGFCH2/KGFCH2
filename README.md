@@ -86,8 +86,9 @@
 ---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" alt="Quote" />
+  ⭐ <strong><em>"I don't just write code, I build logic, solve problems, and shape the future — one line at a time."</em></strong> ⭐
 </p>
+
 
 ---
 
