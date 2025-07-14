@@ -1,9 +1,20 @@
+<h1 align="center">Hi👋🏼, I'm Babin Bid </h1>
+
 <p align="center">
   <img src="https://camo.githubusercontent.com/b10adeab3c8d0e1d0710916c33407f73ae62dc32df2eacf8b714211bbd74e70a/68747470733a2f2f692e6962622e636f2f794e396b4c58682f64646a6b3336732d33366537333665642d613366352d346561642d626335612d3230353561643739643861372e676966" width="600" height="600" alt="Cool Coding GIF" />
 </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1500&center=true&vCenter=true&width=700&height=60&lines=Computer+Science+Engineer;Learning+Web+Development;Maths+Lover;Problem+Solver;Tech+Enthusiast;Brainstorming;Radical+Collaboration" />
+</p>
+
+---
+
+<p align="center">
+  <a href="mailto:babinbid05@gmail.com"><img src="https://img.shields.io/badge/Personal--Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:babin.bid@stu.adamasuniversity.ac.in"><img src="https://img.shields.io/badge/University--Mail-0A66C2?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/KGFCH2"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/babin-bid-853728293/?originalSubdomain=in"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 ---
