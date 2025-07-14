@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1500&center=true&vCenter=true&width=700&height=60&lines=Computer+Science+Engineer;Learning+Web+Development;Maths+Lover;Problem+Solver;Brainstorming;Radical+Collaboration" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1500&center=true&vCenter=true&width=700&height=60&lines=Computer+Science+Engineer;Learning+Web+Development;Maths+Lover;Problem+Solver;Tech+Enthusiast;Brainstorming;Radical+Collaboration" />
 </p>
 
 ---
@@ -91,3 +91,24 @@
 ---
 
 <img src="https://i.ibb.co/fd277gBx/shooting-star-unscreen.gif" width="30" height="30"> *Thanks for visiting my profile! Let's build something amazing together!*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
