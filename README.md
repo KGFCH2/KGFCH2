@@ -73,7 +73,7 @@
 ## <img src="https://i.ibb.co/hF6LZt1t/analytics-unscreen.gif" width="30"> GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KGFCH2&show_icons=true&theme=tokyonight" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KGFCH2&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" height="200" />
   &nbsp;&nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KGFCH2&theme=tokyonight" height="200" />
 </p>
@@ -86,10 +86,12 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KGFCH2&theme=tokyonight" />
 </p>
 
+---
+
+## 🌍 Visitor Map
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KGFCH2&style=flat-square&color=blue" alt="Profile Views" />
-  <br>
-  🔒 Private contributions are also part of my daily activity.
+  <img src="https://api.visitorbadge.io/api/visitors?path=KGFCH2&label=VISITORS&labelColor=%232ccce4&countColor=%232ccce4&style=flat" />
 </p>
 
 ---
