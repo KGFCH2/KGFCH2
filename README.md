@@ -31,7 +31,7 @@
 ## <img src="https://i.ibb.co/qLCyLdMf/world-creativity-and-innovatio-unscreen.gif" width="30"> Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,c,cpp,js,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,cpp,c,typescript,js,git,github,vscode" />
 </p>
 
 ---
