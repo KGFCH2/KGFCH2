@@ -86,6 +86,12 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KGFCH2&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KGFCH2&style=flat-square&color=blue" alt="Profile Views" />
+  <br>
+  🔒 Private contributions are also part of my daily activity.
+</p>
+
 
 ---
 
