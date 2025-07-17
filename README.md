@@ -36,19 +36,19 @@
 
 | Languages | Frameworks & Tools | Cloud & Platforms |
 |----------|--------------------|-------------------|
-| ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white) | ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) |
+| ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white) | ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) |
 
 ---
 
 ### <img src="https://i.ibb.co/hF6LZt1t/analytics-unscreen.gif" width="30"> GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KGFCH2&show_icons=true&theme=tokyonight&border_radius=10&hide_border=false" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KGFCH2&theme=tokyonight&hide_border=false" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=KGFCH2&show_icons=true&theme=algolia&border_radius=10&hide_border=false" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KGFCH2&theme=algolia&hide_border=false" height="180px"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KGFCH2&layout=compact&theme=tokyonight&hide_border=false&langs_count=8" height="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KGFCH2&layout=compact&theme=algolia&hide_border=false&langs_count=8" height="150px"/>
 </div>
 
 ---
@@ -56,7 +56,7 @@
 ### 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KGFCH2&theme=tokyonight&margin-w=15&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=KGFCH2&theme=algolia&margin-w=15&no-frame=true" />
 </p>
 
 ---
@@ -68,5 +68,3 @@
 <p align="center">
   <img src="https://i.ibb.co/fd277gBx/shooting-star-unscreen.gif" width="30" /> <em>Thanks for visiting my profile! Let's build something amazing together!</em>
 </p>
-
----
