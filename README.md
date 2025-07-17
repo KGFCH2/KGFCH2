@@ -82,6 +82,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KGFCH2&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KGFCH2&theme=tokyonight" />
+</p>
+
+
 ---
 
 ## <img src="https://i.ibb.co/9kpHyRjg/agenda-unscreen.gif" width="40" height="40"> *How to Reach Me*
