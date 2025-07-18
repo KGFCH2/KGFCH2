@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋🏼, I'm Babin Bid</h1>
+<h1 align="center">Hi <img src = "https://i.ibb.co/zH54XZbH/five-unscreen.gif" width = "30">, I'm Babin Bid</h1>
 
 <p align="center">
   <img src="https://camo.githubusercontent.com/b10adeab3c8d0e1d0710916c33407f73ae62dc32df2eacf8b714211bbd74e70a/68747470733a2f2f692e6962622e636f2f794e396b4c58682f64646a6b3336732d33366537333665642d613366352d346561642d626335612d3230353561643739643861372e676966" width="500" alt="Coding Boy GIF" />
@@ -10,7 +10,7 @@
 
 ---
 
-### 📬 Connect With Me
+### <img src = "https://i.ibb.co/dJBWLhzF/teamwork-unscreen.gif" width = "30"> Connect With Me
 
 <p align="center">
   <a href="mailto:babinbid05@gmail.com"><img src="https://img.shields.io/badge/Personal Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -53,7 +53,7 @@
 
 ---
 
-### 🏆 GitHub Achievements
+### <img src = "https://i.ibb.co/pvjQDTDV/cup-unscreen.gif" width = "30"> GitHub Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=KGFCH2&theme=algolia&margin-w=15&no-frame=true" />
