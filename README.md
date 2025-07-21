@@ -40,7 +40,7 @@
 
 ---
 
-### <img src="https://i.ibb.co/hF6LZt1t/analytics-unscreen.gif" width="30"> GitHub Stats
+### <img src="https://i.ibb.co/hF6LZt1t/analytics-unscreen.gif" width="30"> GitHub Stats & Activity
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KGFCH2&show_icons=true&theme=algolia&border_radius=10&hide_border=false" height="180px"/>
