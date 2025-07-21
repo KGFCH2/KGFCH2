@@ -44,7 +44,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KGFCH2&show_icons=true&theme=algolia&border_radius=10&hide_border=false" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KGFCH2&theme=algolia&hide_border=false" height="180px"/>
+<img src="https://streak-stats.demolab.com?user=KGFCH2&theme=algolia&hide_border=false" height="180px"/>
 </div>
 
 <div align="center">
