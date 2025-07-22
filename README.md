@@ -27,16 +27,43 @@
 - ➕ I **love solving mathematical problems** and logic puzzles.
 - 🌐 I'm **curious about web development** and always exploring new tools.
 - ⚙️ Passionate about **building and automating ideas** through code.
-- 🏏 I enjoy **playing Cricket** to stay active and competitive.
+- 🏏 I enjoy **playing Cricket** to stay active.
 - 🏸 I also love **Badminton** for fun and fitness.
 
 ---
 
 ### <img src="https://i.ibb.co/CKjpF4Fk/vlogger-unscreen.gif" width="30"> Tech Stack
 
-| Languages | Frameworks & Tools | Cloud & Platforms |
-|----------|--------------------|-------------------|
-| ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white) | ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) |
+<p align="center">
+  <table>
+    <tr>
+      <th>Languages</th>
+      <th>Frameworks & Tools</th>
+      <th>Cloud & Platforms</th>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+        <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+        <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+        <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+        <img src="https://img.shields.io/badge/Microsoft%20Learn-258FFA?style=for-the-badge&logo=microsoft&logoColor=white" />
+      </td>
+    </tr>
+  </table>
+</p>
 
 ---
 
@@ -68,3 +95,4 @@
 <p align="center">
   <img src="https://i.ibb.co/fd277gBx/shooting-star-unscreen.gif" width="30" /> <em>Thanks for visiting my profile! Let's build something amazing together!</em>
 </p>
+
