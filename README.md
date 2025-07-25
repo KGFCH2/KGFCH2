@@ -81,10 +81,10 @@
 
 ---
 
-### <img src = "https://i.ibb.co/pvjQDTDV/cup-unscreen.gif" width = "30"> GitHub Achievements
+### <img src="https://i.ibb.co/pvjQDTDV/cup-unscreen.gif" width="30"> GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KGFCH2&theme=algolia&margin-w=15&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=KGFCH2&theme=algolia&no-frame=true&row=1&column=6" />
 </p>
 
 ---
