@@ -69,15 +69,7 @@
 
 ### <img src="https://i.ibb.co/hF6LZt1t/analytics-unscreen.gif" width="30"> GitHub Stats & Activity
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KGFCH2&show_icons=true&theme=algolia&border_radius=10&hide_border=false" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KGFCH2&theme=algolia&hide_border=false" height="180px"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KGFCH2&layout=compact&theme=algolia&hide_border=false&langs_count=8" height="150px"/>
-</div>
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=KGFCH2&show_icons=true&theme=algolia&border_radius=10&hide_border=false" height="180px"/> <img src="https://streak-stats.demolab.com?user=KGFCH2&theme=algolia&border_radius=10&hide_border=false" height="180px"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KGFCH2&layout=compact&theme=algolia&hide_border=false&langs_count=8" height="150px"/> </p>
 
 ---
 
@@ -96,4 +88,37 @@
 <p align="center">
   <img src="https://i.ibb.co/fd277gBx/shooting-star-unscreen.gif" width="30" /> <em>Thanks for visiting my profile! Let's build something amazing together!</em>
 </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
