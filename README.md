@@ -76,7 +76,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KGFCH2&show_icons=true&theme=algolia&border_radius=10&hide_border=false" height="180px" />
-  <img src="https://streak-stats.demolab.com?user=KGFCH2&theme=algolia&border_radius=10&hide_border=false" />
+  <img src="https://streak-stats.demolab.com?user=KGFCH2&theme=algolia&border_radius=10&hide_border=false" height="180px" />
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KGFCH2&layout=compact&theme=algolia&hide_border=false&langs_count=8" height="150px" />
 </p>
@@ -87,7 +87,7 @@
 ### <img src="https://i.ibb.co/pvjQDTDV/cup-unscreen.gif" width="30"> GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KGFCH2&theme=algolia&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=KGFCH2&show_icons=true&theme=algolia&border_radius=10&hide_border=false" height="180px" />
 </p>
 
 ---
