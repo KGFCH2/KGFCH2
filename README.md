@@ -99,6 +99,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KGFCH2&show_icons=true&theme=algolia&border_radius=10&hide_border=false" height="180px" />
   <img src="https://streak-stats.demolab.com?user=KGFCH2&theme=algolia&border_radius=10&hide_border=false" height="180px" />
+</p>
+<p align="center"> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KGFCH2&layout=compact&langs_count=8&theme=algolia"/>
 </p>
 
