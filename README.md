@@ -10,7 +10,7 @@
 
 ---
 
-### <img src="https://i.ibb.co/dJBWLhzF/teamwork-unscreen.gif" width="30"> Connect With Me
+### <img src="https://i.ibb.co/dJBWLhzF/teamwork-unscreen.gif" width="40"> Connect With Me
 
 <p align="center">
   <a href="mailto:babinbid05@gmail.com"><img src="https://img.shields.io/badge/Personal Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -21,7 +21,7 @@
 
 ---
 
-## <img src="https://i.ibb.co/7dkS48mX/hi-unscreen.gif" width="30" height="30"> About Me
+## <img src="https://i.ibb.co/7dkS48mX/hi-unscreen.gif" width="30" height="40"> About Me
 
 - 🎓 Pursuing **B.Tech in Computer Science & Engineering**.
 - ➕ Passionate about **maths and logical problem-solving**.
@@ -32,7 +32,7 @@
 
 ---
 
-### <img src="https://i.ibb.co/CKjpF4Fk/vlogger-unscreen.gif" width="30"> Tech Stack
+### <img src="https://i.ibb.co/CKjpF4Fk/vlogger-unscreen.gif" width="40"> Tech Stack
 
 <p align="center">
   <table>
@@ -46,19 +46,19 @@
         <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
         <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
       </td>
       <td align="center">
         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+        <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
         <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
         <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
         <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
         <img src="https://img.shields.io/badge/Microsoft%20Ignite-742774?style=for-the-badge&logo=microsoft&logoColor=white" />
-        <img src="https://img.shields.io/badge/Google%20Developer-4285F4?style=for-the-badge&logo=googledevelopers&logoColor=white" />
+        <img src="https://img.shields.io/badge/Google%20Developer-4285F4?style=for-the-badge&logo=google&logoColor=white" />
       </td>
       <td align="center">
         <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
@@ -72,7 +72,29 @@
 
 ---
 
-### <img src="https://i.ibb.co/hF6LZt1t/analytics-unscreen.gif" width="30"> GitHub Stats & Activity
+### <img src="https://i.ibb.co/7JDBSMvY/coder-unscreen.gif" width="40"> Coding Profiles
+
+<p align="center">
+  <a href="https://www.hackerrank.com/profile/babinbid05" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/Babin123/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+  </a>
+  <a href="https://codolio.com/profile/Babin_KGF" target="_blank">
+    <img src="https://img.shields.io/badge/Codolio-181717?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+  <a href="https://www.codechef.com/users/babin_kgf_03" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/babinbv6s7/" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=GeeksforGeeks&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### <img src="https://i.ibb.co/hF6LZt1t/analytics-unscreen.gif" width="40"> GitHub Stats & Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KGFCH2&show_icons=true&theme=algolia&border_radius=10&hide_border=false" height="180px" />
@@ -82,7 +104,7 @@
 
 ---
 
-### <img src="https://i.ibb.co/pvjQDTDV/cup-unscreen.gif" width="30"> GitHub Achievements
+### <img src="https://i.ibb.co/pvjQDTDV/cup-unscreen.gif" width="40"> GitHub Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=KGFCH2&show_icons=true&theme=algolia&border_radius=10&hide_border=false" height="180px" />
