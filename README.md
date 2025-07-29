@@ -76,7 +76,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KGFCH2&show_icons=true&theme=algolia&border_radius=10&hide_border=false" height="180px" />
-  <img src="https://streak-stats.demolab.com?user=KGFCH2&theme=algolia&border_radius=10&hide_border=false" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=KGFCH2&theme=algolia&border_radius=10&hide_border=false" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KGFCH2&layout=compact&theme=algolia&hide_border=false&langs_count=8" height="150px" />
 </p>
 
