@@ -118,6 +118,31 @@
   ⭐ <strong><em>"I don't just write code, I build logic, solve problems, and shape the future — one line at a time."</em></strong> ⭐
 </p>
 
+---
+
+### <img src="https://i.ibb.co/QvgRCmdL/growth-unscreen.gif" width="40"> Contribution Snake Graph
+<p align="center"> <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="Snake animation" /> </p>
+
+---
+
 <p align="center">
   <img src="https://i.ibb.co/fd277gBx/shooting-star-unscreen.gif" width="30" /> <em>Thanks for visiting my profile! Let's build something amazing together!</em>
 </p>
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
