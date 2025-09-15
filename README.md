@@ -97,22 +97,23 @@
 
 ### <img src="https://i.ibb.co/hF6LZt1t/analytics-unscreen.gif" width="40"> GitHub Stats & Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KGFCH2&show_icons=true&theme=algolia&border_radius=10&hide_border=false" height="180px" />
-  <img src="https://streak-stats.demolab.com?user=KGFCH2&theme=algolia&border_radius=10&hide_border=false" height="180px" />
-</p>
+<div align="center">
 
-<p align="center"> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KGFCH2&layout=compact&langs_count=8&theme=algolia"/>
-</p>
+![](https://github-readme-stats.vercel.app/api?username=KGFCH2&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=KGFCH2&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KGFCH2&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+</div>
 
 ---
 
 ### <img src="https://i.ibb.co/pvjQDTDV/cup-unscreen.gif" width="40"> GitHub Achievements
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KGFCH2&show_icons=true&theme=algolia&border_radius=10&hide_border=false" height="180px" />
-</p>
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=KGFCH2&theme=gruvbox_light&no-frame=false&no-bg=false&margin-w=4)
+
+</div>
 
 ---
 
