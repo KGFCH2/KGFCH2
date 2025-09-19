@@ -98,10 +98,19 @@
 ### <img src="https://i.ibb.co/hF6LZt1t/analytics-unscreen.gif" width="40"> GitHub Stats & Activity
 
 <div align="center">
+  
+![](https://github-readme-stats.vercel.app/api?username=KGFCH2&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=KGFCH2&theme=github_dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KGFCH2&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-![](https://github-readme-stats.vercel.app/api?username=KGFCH2&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=KGFCH2&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KGFCH2&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
+
+---
+
+### <img src="https://i.ibb.co/hxXN54Gs/trophy-unscreen.gif" width="40"> Top Contributed Repo
+<div align="center">
+
+![](https://github-contributor-stats.vercel.app/api?username=KGFCH2&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 </div>
 
@@ -111,7 +120,7 @@
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=KGFCH2&theme=gruvbox_light&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=KGFCH2&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
 
 </div>
 
