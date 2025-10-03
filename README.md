@@ -21,7 +21,7 @@
 
 ---
 
-### <img src="https://i.ibb.co/k2WVrS6h/information-unscreen.gif" width="40"> Tech Stack
+### <img src="https://i.ibb.co/tTjGCFMh/vlogger-unscreen.gif" width="40"> Tech Stack
 
 <p align="center">
   <table>
