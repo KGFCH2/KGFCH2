@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1500&center=true&vCenter=true&width=700&height=60&lines=Computer+Science+Engineer;Learning+Web+Development;Maths+Lover;Problem+Solver;Tech+Enthusiast;Brainstorming;Radical+Collaboration" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1500&center=true&vCenter=true&width=750&height=60&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Computer+Science+Engineer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;%F0%9F%8C%90+Learning+Web+Development+%F0%9F%8C%90;%F0%9F%93%90+Mathematics+Lover+%E2%9D%A4%EF%B8%8F;%F0%9F%A7%A9+Problem+Solver+%F0%9F%A7%A9;%F0%9F%94%AC+Research+on+various+aspects+%F0%9F%94%AC;%E2%9A%A1+Tech+Enthusiast+%E2%9A%A1;%F0%9F%A7%A0+Brainstorming+%F0%9F%A7%A0;%F0%9F%A4%9D+Radical+Collaboration+%F0%9F%A4%9D;%F0%9F%A4%96+Exploring+AI+%26+Machine+Learning+%F0%9F%A4%96;%E2%9A%9B%EF%B8%8F+Quantum+Computing+%E2%9A%9B%EF%B8%8F+%7C+%F0%9F%8C%90+Edge+Computing+%F0%9F%8C%90;%F0%9F%94%AC+Gathering+knowledge+in+Quantum+Physics+%F0%9F%94%AC;%F0%9F%93%8A+Interested+in+Data+Analysis+%26+Data+Science+%F0%9F%93%8A;%F0%9F%9A%80+Always+Eager+to+Learn,+Collaborate+%26+Innovate+%F0%9F%9A%80;%F0%9F%94%8D+Open+to+Internships,+Projects+%26+Opportunities+%F0%9F%94%8D" alt="Typing SVG" />
 </p>
 
 ---
@@ -27,7 +27,7 @@
   <table>
     <tr>
       <th>Languages</th>
-      <th>Frameworks & Tools</th>
+      <th>Frameworks, Libraries & Tools</th>
       <th>Cloud & Platforms</th>
     </tr>
     <tr>
@@ -38,6 +38,7 @@
         <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
         <img src="https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white" />
@@ -45,6 +46,11 @@
       <td align="center">
         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFD62E" />
+        <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+        <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+        <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+        <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
         <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
         <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
         <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
