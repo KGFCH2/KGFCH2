@@ -1,7 +1,7 @@
 ### <h1 align="center">Hi <img src="https://i.ibb.co/zH54XZbH/five-unscreen.gif" width="30">, I'm Babin Bid</h1>
 
 <p align="center">
-  <img src="https://miro.medium.com/1*0N8CVKix7OGfBDsgh9DzrQ.gif" width="500" alt="Coding Boy GIF" />
+  <img src="https://miro.medium.com/1*0N8CVKix7OGfBDsgh9DzrQ.gif" width="700" alt="Coding Boy GIF" />
 </p>
 
 <p align="center">
