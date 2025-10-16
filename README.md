@@ -1,8 +1,10 @@
 ### <h1 align="center">Hi <img src="https://i.ibb.co/zH54XZbH/five-unscreen.gif" width="30">, I'm Babin Bid</h1>
 
+
 <p align="center">
   <img src="https://miro.medium.com/1*0N8CVKix7OGfBDsgh9DzrQ.gif" width="700" alt="Coding Boy GIF" />
 </p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1500&center=true&vCenter=true&width=750&height=60&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Computer+Science+Engineer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;%F0%9F%8C%90+Learning+Web+Development+%F0%9F%8C%90;%F0%9F%93%90+Mathematics+Lover+%E2%9D%A4%EF%B8%8F;%F0%9F%A7%A9+Problem+Solver+%F0%9F%A7%A9;%F0%9F%94%AC+Research+on+various+aspects+%F0%9F%94%AC;%E2%9A%A1+Tech+Enthusiast+%E2%9A%A1;%F0%9F%A7%A0+Brainstorming+%F0%9F%A7%A0;%F0%9F%A4%9D+Radical+Collaboration+%F0%9F%A4%9D;%F0%9F%A4%96+Exploring+AI+%26+Machine+Learning+%F0%9F%A4%96;%E2%9A%9B%EF%B8%8F+Quantum+Computing+%E2%9A%9B%EF%B8%8F+%7C+%F0%9F%8C%90+Edge+Computing+%F0%9F%8C%90;%F0%9F%94%AC+Gathering+knowledge+in+Quantum+Physics+%F0%9F%94%AC;%F0%9F%93%8A+Interested+in+Data+Analysis+%26+Data+Science+%F0%9F%93%8A;%F0%9F%9A%80+Always+Eager+to+Learn,+Collaborate+%26+Innovate+%F0%9F%9A%80;%F0%9F%94%8D+Open+to+Internships,+Projects+%26+Opportunities+%F0%9F%94%8D" alt="Typing SVG" />
@@ -108,6 +110,7 @@
 ---
 
 ### <img src="https://i.ibb.co/hxXN54Gs/trophy-unscreen.gif" width="40"> Top Contributed Repo
+
 <div align="center">
 
 ![](https://github-contributor-stats.vercel.app/api?username=KGFCH2&limit=5&theme=neon&combine_all_yearly_contributions=true)
