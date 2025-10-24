@@ -118,7 +118,7 @@
 
 ---
 
-### <img src="https://i.ibb.co/pvjQDTDV/cup-unscreen.gif" width="40"> GitHub Achievements
+### 🏆 GitHub Achievements
 
 <div align="center">
 
