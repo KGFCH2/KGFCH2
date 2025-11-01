@@ -151,7 +151,7 @@
 ---
 
 <p align="center">
-  <img src="https://i.ibb.co/fd277gBx/shooting-star-unscreen.gif" width="30" /> <em>Thanks for visiting my profile! Let's build something amazing together!</em>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=600&color=00FFFF&center=true&vCenter=true&width=850&lines=⭐+Thanks+for+visiting+my+profile!;🌈+Don't+forget+to+star+my+repos+and+follow!;🚀+Let's+collaborate+and+build+something+amazing!" alt="Typing Animation" />
 </p>
 
 ---
