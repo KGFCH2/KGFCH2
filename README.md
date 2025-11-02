@@ -96,7 +96,12 @@
 
 ---
 
-### <img src="https://i.ibb.co/hF6LZt1t/analytics-unscreen.gif" width="40"> GitHub Stats & Activity
+### 🧭 GitHub Overview
+<p align="center"> 👨🏼‍💻 <strong>Passionate Open Source Contributor</strong> 👨🏼‍💻 <br> 💡 I enjoy solving real-world problems, building impactful projects, and collaborating with global developers 💡 <br>🌍 Every commit, push, and pull request reflects my growth, creativity, and dedication toward technology 🌍 </p> <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KGFCH2&theme=github_dark" alt="GitHub Profile Summary" /> </p> <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KGFCH2&theme=github_dark" alt="Repos per Language" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KGFCH2&theme=github_dark" alt="Most Commit Language" /> </p> <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KGFCH2&theme=github_dark" alt="GitHub Stats" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KGFCH2&theme=github_dark&utcOffset=5.5" alt="Productive Time" /> </p>
+
+---
+
+## <img src="https://i.ibb.co/QvgRCmdL/growth-unscreen.gif" width="40"> GitHub Stats & Activity
 
 <div align="center">
 
@@ -145,7 +150,7 @@
 
 ---
 
-### <img src="https://i.ibb.co/QvgRCmdL/growth-unscreen.gif" width="40"> Contribution Snake Graph (Only for Illustration purpose)
+### 📊 Contribution Snake Graph (Only for Illustration purpose)
 <p align="center"> <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="Snake animation" /> </p>
 
 ---
@@ -155,3 +160,35 @@
 </p>
 
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
