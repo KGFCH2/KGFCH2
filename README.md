@@ -120,7 +120,7 @@
 <div align="center">
 
 ![](https://nirzak-streak-stats.vercel.app/?user=KGFCH2&theme=github_dark&hide_border=true)</br>
-![](https://github-readme-stats.vercel.app/api?username=KGFCH2&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=KGFCH2&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&v=2)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KGFCH2&layout=compact&count_weight=0.5&size_weight=0.5&theme=github_dark&hide_border=true)](https://github.com/KGFCH2)
 
 
