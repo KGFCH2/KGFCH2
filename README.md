@@ -107,7 +107,21 @@
 
 ![](https://nirzak-streak-stats.vercel.app/?user=KGFCH2&theme=github_dark&hide_border=true)</br>
 ![](https://github-readme-stats.vercel.app/api?username=KGFCH2&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KGFCH2&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KGFCH2&layout=compact&count_weight=0.5&size_weight=0.5&theme=github_dark&hide_border=true)](https://github.com/KGFCH2)
+
+
+### 💻 Languages I Know
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
 </div>
 
@@ -123,13 +137,21 @@
 
 ---
 
-### 🏆 GitHub Achievements
+### 🏆 GitHub Trophies
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=KGFCH2&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-trophies.vercel.app/?username=KGFCH2&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
 
 </div>
+
+---
+
+### 🏅 GitHub Achievements
+
+<p align="center">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" title="Pull Shark - Merged pull requests" />
+</p>
 
 ---
 
@@ -148,12 +170,6 @@
   ⭐ <strong><em>"I don't just write code, I build logic, solve problems, and shape the future — one line at a time."</em></strong> ⭐
 </p>
 
----
-
-### 📊 Contribution Snake Graph (Only for Illustration purpose)
-<p align="center"> <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="Snake animation" /> </p>
-
----
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=600&color=00FFFF&center=true&vCenter=true&width=850&lines=⭐+Thanks+for+visiting+my+profile!;🌈+Don't+forget+to+star+my+repos+and+follow!;🚀+Let's+collaborate+and+build+something+amazing!" alt="Typing Animation" />
