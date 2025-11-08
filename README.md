@@ -127,13 +127,19 @@
 
 ---
 
-### <img src="https://i.ibb.co/hxXN54Gs/trophy-unscreen.gif" width="40"> Top Contributed Repo
+### <img src="https://i.ibb.co/hxXN54Gs/trophy-unscreen.gif" width="40"> Top Contributed Repositories
 
 <div align="center">
 
 ![](https://github-contributor-stats.vercel.app/api?username=KGFCH2&limit=5&theme=neon&combine_all_yearly_contributions=true)
 
 </div>
+
+
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KGFCH2&theme=tokyo-night&bg_color=000000&color=00FFFF&line=00FFFF&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
+</p>
 
 ---
 
