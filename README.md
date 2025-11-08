@@ -97,7 +97,21 @@
 ---
 
 ### 🧭 GitHub Overview
-<p align="center"> 👨🏼‍💻 <strong>Passionate Open Source Contributor</strong> 👨🏼‍💻 <br> 💡 I enjoy solving real-world problems, building impactful projects, and collaborating with global developers 💡 <br>🌍 Every commit, push, and pull request reflects my growth, creativity, and dedication toward technology 🌍 </p> <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KGFCH2&theme=github_dark" alt="GitHub Profile Summary" /> </p> <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KGFCH2&theme=github_dark" alt="Repos per Language" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KGFCH2&theme=github_dark" alt="Most Commit Language" /> </p> <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KGFCH2&theme=github_dark" alt="GitHub Stats" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KGFCH2&theme=github_dark&utcOffset=5.5" alt="Productive Time" /> </p>
+<p align="center"> 👨🏼‍💻 <strong>Passionate Open Source Contributor</strong> 👨🏼‍💻 <br> 💡 I enjoy solving real-world problems, building impactful projects, and collaborating with global developers 💡 <br>🌍 Every commit, push, and pull request reflects my growth, creativity, and dedication toward technology 🌍 </p> 
+
+<p align="center"> 
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KGFCH2&theme=github_dark&cache_bust=1" />
+</p> 
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KGFCH2&theme=github_dark&v=2" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KGFCH2&theme=github_dark&v=2" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KGFCH2&theme=github_dark&v=2" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KGFCH2&theme=github_dark&utcOffset=5.5&v=2" />
+</p>
 
 ---
 
