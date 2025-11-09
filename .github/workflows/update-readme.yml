@@ -4,23 +4,37 @@ on:
   schedule:
     # Runs every 24 hours at 12:00 AM UTC (5:30 AM IST)
     - cron: "0 0 * * *"
-  workflow_dispatch: # allows manual trigger too
+  push:            # Also triggers on any new commit or push
+    branches:
+      - main
+      - master
+  workflow_dispatch: # Allows manual run from Actions tab
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+
     steps:
       - name: 🧩 Checkout repository content
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # ensures full commit history for safe commits
 
       - name: 🔄 Update dynamic content
         run: |
-          echo "Updating cache-busting tokens..."
+          echo "Updating cache-busting tokens in README.md..."
           sed -i "s/&v=[0-9]*/&v=$(date +%s)/g" README.md
+          echo "✅ Cache tokens refreshed successfully!"
 
       - name: 💾 Commit and push if changes detected
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git diff --quiet && echo "No changes detected." || (git commit -m "Auto-refresh: updated stats & cards" && git push)
+          if git diff --cached --quiet; then
+            echo "🟢 No changes detected. Skipping commit."
+          else
+            git commit -m "♻️ Auto-refresh: updated stats & cards ($(date -u '+%Y-%m-%d %H:%M:%S UTC'))"
+            git push
+            echo "🚀 Changes committed and pushed successfully!"
+          fi
