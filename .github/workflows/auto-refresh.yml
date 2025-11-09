@@ -1,0 +1,53 @@
+name: ♻️ Auto Refresh GitHub Profile
+
+on:
+  schedule:
+    # Runs every day at 12:00 AM UTC (5:30 AM IST)
+    - cron: "0 0 * * *"
+  push:
+    branches:
+      - main
+      - master
+  workflow_dispatch:  # manual trigger from Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 🧩 Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: 🔄 Update image cache tokens in README
+        run: |
+          echo "🔁 Updating cache-busting tokens..."
+          sed -i "s/&v=[0-9]*/&v=$(date +%s)/g" README.md
+          echo "✅ Cache tokens refreshed successfully!"
+
+      - name: 🕒 Update 'Last Refreshed' timestamp in README
+        run: |
+          echo "🕒 Updating timestamp..."
+          current_time="$(date -d '5 hours 30 minutes' '+%d %b %Y | %I:%M %p IST')"
+          sed -i "s|{{LAST_UPDATED}}|${current_time}|g" README.md
+          echo "🕒 README timestamp updated to: ${current_time}"
+
+      - name: 💾 Commit and push if changes detected
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if git diff --cached --quiet; then
+            echo "🟢 No changes detected. Skipping commit."
+          else
+            git commit -m "♻️ Auto-refresh: updated README ($(date -u '+%Y-%m-%d %H:%M:%S UTC'))"
+            git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git HEAD:${{ github.ref }}
+            echo "🚀 Changes committed and pushed successfully!"
+          fi
