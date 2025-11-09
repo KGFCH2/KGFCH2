@@ -104,13 +104,13 @@
 </p> 
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KGFCH2&theme=github_dark&v=2" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KGFCH2&theme=github_dark&v=2" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KGFCH2&theme=github_dark&v=2v=1762675306" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KGFCH2&theme=github_dark&v=2v=1762675306" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KGFCH2&theme=github_dark&v=2" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KGFCH2&theme=github_dark&utcOffset=5.5&v=2" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KGFCH2&theme=github_dark&v=2v=1762675306" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KGFCH2&theme=github_dark&utcOffset=5.5&v=2v=1762675306" />
 </p>
 
 ---
@@ -120,7 +120,7 @@
 <div align="center">
 
 ![](https://nirzak-streak-stats.vercel.app/?user=KGFCH2&theme=github_dark&hide_border=true)</br>
-![](https://github-readme-stats.vercel.app/api?username=KGFCH2&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&v=2)
+![](https://github-readme-stats.vercel.app/api?username=KGFCH2&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&v=2v=1762675306)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KGFCH2&layout=compact&count_weight=0.5&size_weight=0.5&theme=github_dark&hide_border=true)](https://github.com/KGFCH2)
 
 
