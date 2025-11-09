@@ -9,6 +9,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1500&center=true&vCenter=true&width=750&height=60&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Computer+Science+Engineer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;%F0%9F%8C%90+Learning+Web+Development+%F0%9F%8C%90;%F0%9F%93%90+Mathematics+Lover+%E2%9D%A4%EF%B8%8F;%F0%9F%A7%A9+Problem+Solver+%F0%9F%A7%A9;%F0%9F%94%AC+Research+on+various+aspects+%F0%9F%94%AC;%E2%9A%A1+Tech+Enthusiast+%E2%9A%A1;%F0%9F%A7%A0+Brainstorming+%F0%9F%A7%A0;%F0%9F%A4%9D+Radical+Collaboration+%F0%9F%A4%9D;%F0%9F%A4%96+Exploring+AI+%26+Machine+Learning+%F0%9F%A4%96;%E2%9A%9B%EF%B8%8F+Quantum+Computing+%E2%9A%9B%EF%B8%8F+%7C+%F0%9F%8C%90+Edge+Computing+%F0%9F%8C%90;%F0%9F%94%AC+Gathering+knowledge+in+Quantum+Physics+%F0%9F%94%AC;%F0%9F%93%8A+Interested+in+Data+Analysis+%26+Data+Science+%F0%9F%93%8A;%F0%9F%9A%80+Always+Eager+to+Learn,+Collaborate+%26+Innovate+%F0%9F%9A%80;%F0%9F%94%8D+Open+to+Internships,+Projects+%26+Opportunities+%F0%9F%94%8D" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/KGFCH2/KGFCH2/actions/workflows/auto-refresh.yml">
+    <img src="https://img.shields.io/badge/♻️%20Auto%20Refresh-Active%20|%20Daily%20at%2005%3A30%20AM%20IST-00FFFF?style=for-the-badge&logo=githubactions&logoColor=white" alt="Auto Refresh Badge">
+  </a>
+</p>
+
 ---
 
 ### <img src="https://i.ibb.co/k2WVrS6h/information-unscreen.gif" width="40"> About Me
@@ -97,20 +103,21 @@
 ---
 
 ### 🧭 GitHub Overview
-<p align="center"> 👨🏼‍💻 <strong>Passionate Open Source Contributor</strong> 👨🏼‍💻 <br> 💡 I enjoy solving real-world problems, building impactful projects, and collaborating with global developers 💡 <br>🌍 Every commit, push, and pull request reflects my growth, creativity, and dedication toward technology 🌍 </p> 
 
-<p align="center"> 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KGFCH2&theme=github_dark&cache_bust=1" />
-</p> 
+<p align="center"> 👨🏼‍💻 <strong>Passionate Open Source Contributor</strong> 👨🏼‍💻 <br> 💡 I enjoy solving real-world problems, building impactful projects, and collaborating globally 💡 <br>🌍 Every commit, push, and pull request reflects my growth, creativity, and dedication toward technology 🌍 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KGFCH2&theme=github_dark&v=2v=1762675306" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KGFCH2&theme=github_dark&v=2v=1762675306" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KGFCH2&theme=github_dark&v=1762675306" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KGFCH2&theme=github_dark&v=2v=1762675306" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KGFCH2&theme=github_dark&utcOffset=5.5&v=2v=1762675306" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KGFCH2&theme=github_dark&v=1762675306" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KGFCH2&theme=github_dark&v=1762675306" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KGFCH2&theme=github_dark&v=1762675306" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KGFCH2&theme=github_dark&utcOffset=5.5&v=1762675306" />
 </p>
 
 ---
@@ -120,7 +127,7 @@
 <div align="center">
 
 ![](https://nirzak-streak-stats.vercel.app/?user=KGFCH2&theme=github_dark&hide_border=true)</br>
-![](https://github-readme-stats.vercel.app/api?username=KGFCH2&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&v=2v=1762675306)
+![](https://github-readme-stats.vercel.app/api?username=KGFCH2&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&v=1762675306)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KGFCH2&layout=compact&count_weight=0.5&size_weight=0.5&theme=github_dark&hide_border=true)](https://github.com/KGFCH2)
 
 
@@ -196,12 +203,6 @@
 </p>
 
 ---
-
-
-
-
-
-
 
 
 
