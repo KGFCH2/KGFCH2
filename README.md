@@ -158,8 +158,6 @@
 
 </div>
 
-
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KGFCH2&theme=tokyo-night&bg_color=000000&color=00FFFF&line=00FFFF&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </p>
