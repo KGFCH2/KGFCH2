@@ -1,4 +1,4 @@
-### <h1 align="center">Hi 👋🏼, I'm Babin Bid</h1>
+<h1 align="center">Hi 👋🏼, I'm Babin Bid</h1>
 
 <p align="center">
   <img src="https://miro.medium.com/1*0N8CVKix7OGfBDsgh9DzrQ.gif" width="700" alt="Coding Boy GIF" />
@@ -10,26 +10,22 @@
 
 ---
 
-<p align="center">
-  <a href="https://github.com/KGFCH2/KGFCH2/actions/workflows/auto-refresh.yml">
-    <img src="https://img.shields.io/badge/♻️%20Auto%20Refresh-Active%20|%20Daily%20at%2005%3A30%20AM%20IST-00FFFF?style=for-the-badge&logo=githubactions&logoColor=white" alt="Auto Refresh Badge">
-  </a>
-</p>
+## <div align="center"> <img src="https://i.ibb.co/k2WVrS6h/information-unscreen.gif" width="40"> About Me
+<div align="center"> 🚀 Curious Mind. 💡 Problem Solver. 🛠️ Builder.
+<table> <tr> <td align="left">
+
+🎓 Pursuing <b>B.Tech</b> in <b>Computer Science & Engineering</b> <br>
+➕ Passionate about <b>maths and logical problem-solving</b> <br>
+🌐 Exploring the world of <b>web development</b> <br>
+⚙️ Love building and automating projects through code <br>
+🏏 Active in <b>Cricket</b> for refreshment <br>
+🏸 Enjoy <b>Badminton</b> for fitness and fun
+
+</td> <td align="center"> <img src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif" width="200"> </td> </tr> </table>
 
 ---
 
-### <img src="https://i.ibb.co/k2WVrS6h/information-unscreen.gif" width="40"> About Me
-
-- 🎓 Pursuing **B.Tech in Computer Science & Engineering**.
-- ➕ Passionate about **maths and logical problem-solving**.
-- 🌐 Exploring the world of **web development**.
-- ⚙️ Love building and automating projects through code.
-- 🏏 Active in **Cricket** for refreshment.
-- 🏸 Enjoy **Badminton** for fitness and fun.
-
----
-
-### <img src="https://i.ibb.co/tTjGCFMh/vlogger-unscreen.gif" width="40"> Tech Stack
+## <img src="https://i.ibb.co/tTjGCFMh/vlogger-unscreen.gif" width="40"> Tech Stack
 
 <p align="center">
   <table>
@@ -81,7 +77,7 @@
 
 ---
 
-### <img src="https://i.ibb.co/7JDBSMvY/coder-unscreen.gif" width="40"> Coding Profiles
+## <img src="https://i.ibb.co/7JDBSMvY/coder-unscreen.gif" width="40"> Coding Profiles
 
 <p align="center">
   <a href="https://www.hackerrank.com/profile/babinbid05" target="_blank">
@@ -103,9 +99,13 @@
 
 ---
 
-### 🧭 GitHub Overview
+## 🧭 GitHub Overview
 
-<p align="center"> 👨🏼‍💻 <strong>Passionate Open Source Contributor</strong> 👨🏼‍💻 <br> 💡 I enjoy solving real-world problems, building impactful projects, and collaborating globally 💡 <br>🌍 Every commit, push, and pull request reflects my growth, creativity, and dedication toward technology 🌍 </p>
+<p align="center">
+  👨🏼‍💻 <strong>Passionate Open Source Contributor</strong> 👨🏼‍💻 <br>
+  💡 I enjoy solving real-world problems, building impactful projects, and collaborating globally 💡 <br>
+  🌍 Every commit, push, and pull request reflects my growth, creativity, and dedication toward technology 🌍
+</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KGFCH2&theme=github_dark&v=1762675306v=1764357492v=1764351103v=1764342202v=1764342163v=1764328664v=1764292373v=1764206024v=1764119705v=1764033263v=1763964140v=1763947156v=1763895865v=1763861033v=1763773872v=1763728183v=1763687622v=1763653738v=1763601188v=1763514845v=1763428465v=1763342118v=1763286844v=1763255949v=1763189003v=1763169154v=1763082862v=1762996504v=1762910074v=1762823697v=1762737433v=1762682769v=1762682687v=1762682574v=1762682331v=1762682282" />
@@ -123,7 +123,7 @@
 
 ---
 
-### <img src="https://i.ibb.co/QvgRCmdL/growth-unscreen.gif" width="40"> Top Repositories
+## <img src="https://i.ibb.co/QvgRCmdL/growth-unscreen.gif" width="40"> Top Repositories
 
 <p align="center">
   <table>
@@ -195,16 +195,16 @@
         <sub><b>TaskFlow Pro</b> — Study-focused task manager with glassmorphism UI, email reminders, and progress analytics.</sub>
       </td>
     </tr>
-
   </table>
 </p>
 
 ---
 
-### <img src="https://i.ibb.co/QvgRCmdL/growth-unscreen.gif" width="40"> GitHub Stats & Activity
+## <img src="https://i.ibb.co/QvgRCmdL/growth-unscreen.gif" width="40"> GitHub Stats & Activity
 
 <div align="center">
 
+  
 ![](https://nirzak-streak-stats.vercel.app/?user=KGFCH2&theme=github_dark&hide_border=true)</br>
 ![](https://github-readme-stats.vercel.app/api?username=KGFCH2&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&v=1762675306v=1764357492v=1764351103v=1764342202v=1764342163v=1764328664v=1764292373v=1764206024v=1764119705v=1764033263v=1763964140v=1763947156v=1763895865v=1763861033v=1763773872v=1763728183v=1763687622v=1763653738v=1763601188v=1763514845v=1763428465v=1763342118v=1763286844v=1763255949v=1763189003v=1763169154v=1763082862v=1762996504v=1762910074v=1762823697v=1762737433v=1762682769v=1762682687v=1762682574v=1762682331v=1762682282)
 
@@ -213,9 +213,11 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KGFCH2&theme=tokyo-night&bg_color=000000&color=00FFFF&line=00FFFF&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
+</div>
+
 ---
 
-### 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
 
@@ -225,7 +227,7 @@
 
 ---
 
-### 🏅 GitHub Achievements
+## 🏅 GitHub Achievements
 
 <p align="center">
   <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" title="Pull Shark - Merged pull requests" />
@@ -233,7 +235,7 @@
 
 ---
 
-### <img src="https://i.ibb.co/dJBWLhzF/teamwork-unscreen.gif" width="40"> Connect With Me
+## <img src="https://i.ibb.co/dJBWLhzF/teamwork-unscreen.gif" width="40"> Connect With Me
 
 <p align="center">
   <a href="mailto:babinbid05@gmail.com"><img src="https://img.shields.io/badge/Personal Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -248,9 +250,16 @@
   ⭐ <strong><em>"I don't just write code, I build logic, solve problems, and shape the future — one line at a time."</em></strong> ⭐
 </p>
 
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=600&color=00FFFF&center=true&vCenter=true&width=850&lines=⭐+Thanks+for+visiting+my+profile!;🌈+Don't+forget+to+star+my+repos+and+follow!;🚀+Let's+collaborate+and+build+something+amazing!" alt="Typing Animation" />
+</p>
+
+---
+
+<p align="center">
+  <a href="https://github.com/KGFCH2/KGFCH2/actions/workflows/auto-refresh.yml">
+    <img src="https://img.shields.io/badge/♻️%20Auto%20Refresh-Active%20|%20Daily%20at%2005%3A30%20AM%20IST-00FFFF?style=for-the-badge&logo=githubactions&logoColor=white" alt="Auto Refresh Badge">
+  </a>
 </p>
 
 ---
