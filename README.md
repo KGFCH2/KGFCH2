@@ -108,17 +108,95 @@
 <p align="center"> 👨🏼‍💻 <strong>Passionate Open Source Contributor</strong> 👨🏼‍💻 <br> 💡 I enjoy solving real-world problems, building impactful projects, and collaborating globally 💡 <br>🌍 Every commit, push, and pull request reflects my growth, creativity, and dedication toward technology 🌍 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KGFCH2&theme=github_dark&v=1762675306v=1764356980v=1764356925v=1764356915v=1764356902v=1764356889v=1764356877v=1764356867v=1764356854v=1764356838v=1764356803v=1764355306v=1764353210v=1764351103v=1764342202v=1764342163v=1764328664v=1764292373v=1764206024v=1764119705v=1764033263v=1763964140v=1763947156v=1763895865v=1763861033v=1763773872v=1763728183v=1763687622v=1763653738v=1763601188v=1763514845v=1763428465v=1763342118v=1763286844v=1763255949v=1763189003v=1763169154v=1763082862v=1762996504v=1762910074v=1762823697v=1762737433v=1762682769v=1762682687v=1762682574v=1762682331v=1762682282" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KGFCH2&theme=github_dark&v=1762675306v=1764351103v=1764342202v=1764342163v=1764328664v=1764292373v=1764206024v=1764119705v=1764033263v=1763964140v=1763947156v=1763895865v=1763861033v=1763773872v=1763728183v=1763687622v=1763653738v=1763601188v=1763514845v=1763428465v=1763342118v=1763286844v=1763255949v=1763189003v=1763169154v=1763082862v=1762996504v=1762910074v=1762823697v=1762737433v=1762682769v=1762682687v=1762682574v=1762682331v=1762682282" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KGFCH2&theme=github_dark&v=1762675306v=1764356980v=1764356925v=1764356915v=1764356902v=1764356889v=1764356877v=1764356867v=1764356854v=1764356838v=1764356803v=1764355306v=1764353210v=1764351103v=1764342202v=1764342163v=1764328664v=1764292373v=1764206024v=1764119705v=1764033263v=1763964140v=1763947156v=1763895865v=1763861033v=1763773872v=1763728183v=1763687622v=1763653738v=1763601188v=1763514845v=1763428465v=1763342118v=1763286844v=1763255949v=1763189003v=1763169154v=1763082862v=1762996504v=1762910074v=1762823697v=1762737433v=1762682769v=1762682687v=1762682574v=1762682331v=1762682282" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KGFCH2&theme=github_dark&v=1762675306v=1764356980v=1764356925v=1764356915v=1764356902v=1764356889v=1764356877v=1764356867v=1764356854v=1764356838v=1764356803v=1764355306v=1764353210v=1764351103v=1764342202v=1764342163v=1764328664v=1764292373v=1764206024v=1764119705v=1764033263v=1763964140v=1763947156v=1763895865v=1763861033v=1763773872v=1763728183v=1763687622v=1763653738v=1763601188v=1763514845v=1763428465v=1763342118v=1763286844v=1763255949v=1763189003v=1763169154v=1763082862v=1762996504v=1762910074v=1762823697v=1762737433v=1762682769v=1762682687v=1762682574v=1762682331v=1762682282" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KGFCH2&theme=github_dark&v=1762675306v=1764351103v=1764342202v=1764342163v=1764328664v=1764292373v=1764206024v=1764119705v=1764033263v=1763964140v=1763947156v=1763895865v=1763861033v=1763773872v=1763728183v=1763687622v=1763653738v=1763601188v=1763514845v=1763428465v=1763342118v=1763286844v=1763255949v=1763189003v=1763169154v=1763082862v=1762996504v=1762910074v=1762823697v=1762737433v=1762682769v=1762682687v=1762682574v=1762682331v=1762682282" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KGFCH2&theme=github_dark&v=1762675306v=1764351103v=1764342202v=1764342163v=1764328664v=1764292373v=1764206024v=1764119705v=1764033263v=1763964140v=1763947156v=1763895865v=1763861033v=1763773872v=1763728183v=1763687622v=1763653738v=1763601188v=1763514845v=1763428465v=1763342118v=1763286844v=1763255949v=1763189003v=1763169154v=1763082862v=1762996504v=1762910074v=1762823697v=1762737433v=1762682769v=1762682687v=1762682574v=1762682331v=1762682282" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KGFCH2&theme=github_dark&v=1762675306v=1764356980v=1764356925v=1764356915v=1764356902v=1764356889v=1764356877v=1764356867v=1764356854v=1764356838v=1764356803v=1764355306v=1764353210v=1764351103v=1764342202v=1764342163v=1764328664v=1764292373v=1764206024v=1764119705v=1764033263v=1763964140v=1763947156v=1763895865v=1763861033v=1763773872v=1763728183v=1763687622v=1763653738v=1763601188v=1763514845v=1763428465v=1763342118v=1763286844v=1763255949v=1763189003v=1763169154v=1763082862v=1762996504v=1762910074v=1762823697v=1762737433v=1762682769v=1762682687v=1762682574v=1762682331v=1762682282" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KGFCH2&theme=github_dark&utcOffset=5.5&v=1762675306v=1764356980v=1764356925v=1764356915v=1764356902v=1764356889v=1764356877v=1764356867v=1764356854v=1764356838v=1764356803v=1764355306v=1764353210v=1764351103v=1764342202v=1764342163v=1764328664v=1764292373v=1764206024v=1764119705v=1764033263v=1763964140v=1763947156v=1763895865v=1763861033v=1763773872v=1763728183v=1763687622v=1763653738v=1763601188v=1763514845v=1763428465v=1763342118v=1763286844v=1763255949v=1763189003v=1763169154v=1763082862v=1762996504v=1762910074v=1762823697v=1762737433v=1762682769v=1762682687v=1762682574v=1762682331v=1762682282" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KGFCH2&theme=github_dark&v=1762675306v=1764351103v=1764342202v=1764342163v=1764328664v=1764292373v=1764206024v=1764119705v=1764033263v=1763964140v=1763947156v=1763895865v=1763861033v=1763773872v=1763728183v=1763687622v=1763653738v=1763601188v=1763514845v=1763428465v=1763342118v=1763286844v=1763255949v=1763189003v=1763169154v=1763082862v=1762996504v=1762910074v=1762823697v=1762737433v=1762682769v=1762682687v=1762682574v=1762682331v=1762682282" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KGFCH2&theme=github_dark&utcOffset=5.5&v=1762675306v=1764351103v=1764342202v=1764342163v=1764328664v=1764292373v=1764206024v=1764119705v=1764033263v=1763964140v=1763947156v=1763895865v=1763861033v=1763773872v=1763728183v=1763687622v=1763653738v=1763601188v=1763514845v=1763428465v=1763342118v=1763286844v=1763255949v=1763189003v=1763169154v=1763082862v=1762996504v=1762910074v=1762823697v=1762737433v=1762682769v=1762682687v=1762682574v=1762682331v=1762682282" />
+</p>
+
+---
+
+### <img src="https://i.ibb.co/QvgRCmdL/growth-unscreen.gif" width="40"> Top Repositories
+
+<p align="center">
+  <table>
+    <!-- Row 1 -->
+    <tr>
+      <td align="center" width="50%">
+        <a href="https://github.com/KGFCH2/AquaWatch_1.0" target="_blank">
+          <img src="https://github.com/KGFCH2/KGFCH2/blob/main/Images/AquaWatch.jpeg" alt="AquaWatch" />
+        </a>
+        <br />
+        <sub><b>AquaWatch</b> — Real-time dashboard on India’s water crisis with insights on depletion, availability & population impact.</sub>
+      </td>
+      <td align="center" width="50%">
+        <a href="https://github.com/KGFCH2/Babin.Portfolio" target="_blank">
+          <img src="https://github.com/KGFCH2/KGFCH2/blob/main/Images/Babin.Portfolio.png" alt="Babin.Portfolio" />
+        </a>
+        <br />
+        <sub><b>Babin.Portfolio</b> — My personal dev portfolio showcasing skills, achievements, and featured projects.</sub>
+      </td>
+    </tr>
+    <!-- Row 2 -->
+    <tr>
+      <td align="center" width="50%">
+        <a href="https://github.com/KGFCH2/BharatBus" target="_blank">
+          <img src="https://github.com/KGFCH2/KGFCH2/blob/main/Images/BharatBus.png" alt="BharatBus" />
+        </a>
+        <br />
+        <sub><b>BharatBus</b> — Modern React + TS bus booking & tracking frontend with PDF tickets, validation, and smooth animations.</sub>
+      </td>
+      <td align="center" width="50%">
+        <a href="https://github.com/KGFCH2/OIBSIP/tree/main/Voice%20Assistant/EchoMind%20AI" target="_blank">
+          <img src="https://github.com/KGFCH2/KGFCH2/blob/main/Images/EchoMind%20AI.png" alt="EchoMind AI" />
+        </a>
+        <br />
+        <sub><b>EchoMind AI</b> — Advanced Python voice assistant with NLP, smart command routing, and multi-feature integrations.</sub>
+      </td>
+    </tr>
+    <!-- Row 3 -->
+    <tr>
+      <td align="center" width="50%">
+        <a href="https://github.com/KGFCH2/Music-Mood-Matcher" target="_blank">
+          <img src="https://github.com/KGFCH2/KGFCH2/blob/main/Images/Music%20Mood%20Matcher.png" alt="Music Mood Matcher" />
+        </a>
+        <br />
+        <sub><b>Music Mood Matcher</b> — React-based mood music finder with AI-powered face detection and a polished animated UI.</sub>
+      </td>
+      <td align="center" width="50%">
+        <a href="https://github.com/KGFCH2/PersonaPath" target="_blank">
+          <img src="https://github.com/KGFCH2/KGFCH2/blob/main/Images/PersonaPath.png" alt="PersonaPath" />
+        </a>
+        <br />
+        <sub><b>PersonaPath</b> — Rules-based career advisor with a Flask backend and 500+ mapped skills & career paths.</sub>
+      </td>
+    </tr>
+    <!-- Row 4 -->
+    <tr>
+      <td align="center" width="50%">
+        <a href="https://github.com/KGFCH2/SkyCast_AI" target="_blank">
+          <img src="https://github.com/KGFCH2/KGFCH2/blob/main/Images/SkyCast_AI.png" alt="SkyCast AI" />
+        </a>
+        <br />
+        <sub><b>SkyCast AI</b> — Intelligent real-time weather dashboard with an interactive, data-driven UI.</sub>
+      </td>
+      <td align="center" width="50%">
+        <a href="https://github.com/KGFCH2/ToDo_List" target="_blank">
+          <img src="https://github.com/KGFCH2/KGFCH2/blob/main/Images/ToDo%20List.png" alt="TaskFlow Pro" />
+        </a>
+        <br />
+        <sub><b>TaskFlow Pro</b> — Study-focused task manager with glassmorphism UI, email reminders, and progress analytics.</sub>
+      </td>
+    </tr>
+
+  </table>
 </p>
 
 ---
@@ -128,7 +206,7 @@
 <div align="center">
 
 ![](https://nirzak-streak-stats.vercel.app/?user=KGFCH2&theme=github_dark&hide_border=true)</br>
-![](https://github-readme-stats.vercel.app/api?username=KGFCH2&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&v=1762675306v=1764356980v=1764356925v=1764356915v=1764356902v=1764356889v=1764356877v=1764356867v=1764356854v=1764356838v=1764356803v=1764355306v=1764353210v=1764351103v=1764342202v=1764342163v=1764328664v=1764292373v=1764206024v=1764119705v=1764033263v=1763964140v=1763947156v=1763895865v=1763861033v=1763773872v=1763728183v=1763687622v=1763653738v=1763601188v=1763514845v=1763428465v=1763342118v=1763286844v=1763255949v=1763189003v=1763169154v=1763082862v=1762996504v=1762910074v=1762823697v=1762737433v=1762682769v=1762682687v=1762682574v=1762682331v=1762682282)
+![](https://github-readme-stats.vercel.app/api?username=KGFCH2&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&v=1762675306v=1764351103v=1764342202v=1764342163v=1764328664v=1764292373v=1764206024v=1764119705v=1764033263v=1763964140v=1763947156v=1763895865v=1763861033v=1763773872v=1763728183v=1763687622v=1763653738v=1763601188v=1763514845v=1763428465v=1763342118v=1763286844v=1763255949v=1763189003v=1763169154v=1763082862v=1762996504v=1762910074v=1762823697v=1762737433v=1762682769v=1762682687v=1762682574v=1762682331v=1762682282)
 
 
 <p align="center">
