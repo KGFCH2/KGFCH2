@@ -123,39 +123,13 @@
 
 ---
 
-## <img src="https://i.ibb.co/QvgRCmdL/growth-unscreen.gif" width="40"> GitHub Stats & Activity
+### <img src="https://i.ibb.co/QvgRCmdL/growth-unscreen.gif" width="40"> GitHub Stats & Activity
 
 <div align="center">
 
 ![](https://nirzak-streak-stats.vercel.app/?user=KGFCH2&theme=github_dark&hide_border=true)</br>
 ![](https://github-readme-stats.vercel.app/api?username=KGFCH2&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&v=1762675306v=1764342202v=1764342163v=1764328664v=1764292373v=1764206024v=1764119705v=1764033263v=1763964140v=1763947156v=1763895865v=1763861033v=1763773872v=1763728183v=1763687622v=1763653738v=1763601188v=1763514845v=1763428465v=1763342118v=1763286844v=1763255949v=1763189003v=1763169154v=1763082862v=1762996504v=1762910074v=1762823697v=1762737433v=1762682769v=1762682687v=1762682574v=1762682331v=1762682282)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KGFCH2&layout=compact&count_weight=0.5&size_weight=0.5&theme=github_dark&hide_border=true)](https://github.com/KGFCH2)
 
-
-### 💻 Languages I Know
-
-<p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
-</div>
-
----
-
-### <img src="https://i.ibb.co/hxXN54Gs/trophy-unscreen.gif" width="40"> Top Contributed Repositories
-
-<div align="center">
-
-![](https://github-contributor-stats.vercel.app/api?username=KGFCH2&limit=5&theme=neon&combine_all_yearly_contributions=true)
-
-</div>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KGFCH2&theme=tokyo-night&bg_color=000000&color=00FFFF&line=00FFFF&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
