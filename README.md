@@ -21,7 +21,7 @@
 🏏 Active in <b>Cricket</b> for refreshment <br>
 🏸 Enjoy <b>Badminton</b> for fitness and fun
 
-</td> <td align="center"> <img src="https://github.com/KGFCH2/KGFCH2/blob/main/Images/Babin.jpeg" width="200"> </td> </tr> </table>
+</td> <td align="center"> <img src="https://raw.githubusercontent.com/KGFCH2/KGFCH2/0834e79b793b68984d5982ea9aa532e5a0d6c1f2/Images/Babin_Profile.jpg" width="200"> </td> </tr> </table>
 
 ---
 
