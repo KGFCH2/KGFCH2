@@ -231,5 +231,3 @@
 <p align="center">
   <sub><i>──── End of README ────</i></sub>
 </p>
-
-
