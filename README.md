@@ -40,7 +40,6 @@
 
 ---
 
-
 # 🧑🏽‍💻 Coding Profiles 🧑🏽‍💻
 
 <p align="center">
