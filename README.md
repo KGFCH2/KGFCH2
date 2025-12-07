@@ -94,7 +94,7 @@
         <sub><b>BharatBus</b> — Modern React + TS bus booking & tracking frontend with PDF tickets, validation, and smooth animations.</sub>
       </td>
       <td align="center" width="50%">
-        <a href="https://github.com/KGFCH2/OIBSIP/tree/main/Voice%20Assistant/EchoMind%20AI" target="_blank">
+        <a href="https://github.com/KGFCH2/OIBSIP/tree/main/OIBSIP_Python_TaskNo_1%20(Voice%20Assistant)" target="_blank">
           <img src="https://github.com/KGFCH2/KGFCH2/blob/main/Images/EchoMind%20AI.png" alt="EchoMind AI" />
         </a>
         <br />
