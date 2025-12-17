@@ -169,13 +169,21 @@
 <div align="center">
 
   
-![](https://nirzak-streak-stats.vercel.app/?user=KGFCH2&theme=github_dark&hide_border=true)</br>
-![](https://github-readme-stats.vercel.app/api?username=KGFCH2&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&v=1762675306v=1765934078v=1765847978v=1765761662v=1765675444v=1765664810v=1765588463v=1765502318v=1765415949v=1765398035v=1765338564v=1765329499v=1765278369v=1765242979v=1765156622v=1765149785v=1765104222v=1765103882v=1765070609v=1765042242v=1764983587v=1764897414v=1764810987v=1764799371v=1764746279v=1764724589v=1764672879v=1764638178v=1764552486v=1764465798v=1764454439v=1764428543v=1764428333v=1764428255v=1764427794v=1764427703v=1764427330v=1764427174v=1764418870v=1764403131v=1764365020v=1764357492v=1764351103v=1764342202v=1764342163v=1764328664v=1764292373v=1764206024v=1764119705v=1764033263v=1763964140v=1763947156v=1763895865v=1763861033v=1763773872v=1763728183v=1763687622v=1763653738v=1763601188v=1763514845v=1763428465v=1763342118v=1763286844v=1763255949v=1763189003v=1763169154v=1763082862v=1762996504v=1762910074v=1762823697v=1762737433v=1762682769v=1762682687v=1762682574v=1762682331v=1762682282)
+![](https://nirzak-streak-stats.vercel.app/?user=KGFCH2&theme=github_dark&hide_border=true)
 
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KGFCH2&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KGFCH2&layout=compact&theme=github_dark&hide_border=true" width="40%" />
+</p>
+
+<br/>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KGFCH2&theme=tokyo-night&bg_color=000000&color=00FFFF&line=00FFFF&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </p>
+
 
 </div>
 
