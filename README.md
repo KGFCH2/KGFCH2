@@ -12,7 +12,7 @@
 
 ---
 
-# <div align="center">  ✨ About Me ✨
+# <div align="center"> <img src="https://cdn-icons-png.flaticon.com/128/3711/3711643.png" height="25"> About Me <img src="https://cdn-icons-png.flaticon.com/128/3711/3711643.png" height="25">
 <div align="center"> 🚀 Curious Mind. 💡 Problem Solver. 🛠️ Builder.
 <table> <tr> <td align="left">
 
