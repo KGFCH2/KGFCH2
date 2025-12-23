@@ -2,8 +2,6 @@
 <img src="https://github.com/KGFCH2/KGFCH2/blob/main/Images/hi.png" wdth="70" height="70"> <h1> I'm Babin Bid </h1> 
 </div>
   
- 
-
 <p align="center">
   <img src="https://miro.medium.com/1*0N8CVKix7OGfBDsgh9DzrQ.gif" width="700" alt="Coding Boy GIF" />
 </p>
