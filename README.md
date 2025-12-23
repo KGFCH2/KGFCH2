@@ -42,7 +42,7 @@
 
 ---
 
-# 🧑🏽‍💻 Coding Profiles 🧑🏽‍💻
+# <img src="https://cdn-icons-png.flaticon.com/128/9778/9778421.png" height="40"> Coding Profiles <img src="https://cdn-icons-png.flaticon.com/128/9778/9778421.png" height="40">
 
 <p align="center">
   <a href="https://www.hackerrank.com/profile/babinbid05" target="_blank">
