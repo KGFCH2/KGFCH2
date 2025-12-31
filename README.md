@@ -175,13 +175,6 @@
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KGFCH2&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" width="50%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KGFCH2&layout=compact&theme=github_dark&hide_border=true" width="40%" />
-</p>
-
-<br/>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KGFCH2&theme=tokyo-night&bg_color=000000&color=00FFFF&line=00FFFF&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
