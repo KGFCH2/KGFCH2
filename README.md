@@ -169,17 +169,14 @@
 
 <div align="center">
 
-  <img
-    src="https://streak-stats.demolab.com/svg?user=KGFCH2&theme=github-dark&hide_border=true"
-    alt="GitHub Streak Stats"
-  />
+![](https://github-readme-stats.vercel.app/api?username=KGFCH2&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=KGFCH2&theme=github_dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KGFCH2&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-  <br/><br/>
-
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=KGFCH2&theme=tokyo-night&bg_color=000000&color=00FFFF&line=00FFFF&point=ffffff&area=true&hide_border=true"
-    alt="GitHub Activity Graph"
-  />
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=KGFCH2&theme=tokyo-night&bg_color=000000&color=00FFFF&line=00FFFF&point=ffffff&area=true&hide_border=true"
+  alt="GitHub Activity Graph"
+/>
 
 </div>
 
