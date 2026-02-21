@@ -95,11 +95,11 @@
         <sub><b>BharatBus</b> — Modern React + TS bus booking & tracking frontend with PDF tickets, validation, and smooth animations.</sub>
       </td>
       <td align="center" width="50%">
-        <a href="https://github.com/KGFCH2/OIBSIP/tree/main/OIBSIP_Python_TaskNo_1%20(Voice%20Assistant)" target="_blank">
-          <img src="https://github.com/KGFCH2/KGFCH2/blob/main/Images/EchoMind%20AI.png" alt="EchoMind AI" />
+        <a href="https://github.com/KGFCH2/EchoMind" target="_blank">
+          <img src="https://github.com/KGFCH2/KGFCH2/blob/main/Images/EchoMind.png" alt="EchoMind" />
         </a>
         <br />
-        <sub><b>EchoMind AI</b> — Advanced Python voice assistant with NLP, smart command routing, and multi-feature integrations.</sub>
+        <sub><b>EchoMind</b> — Advanced Python voice assistant with multi-feature integrations.</sub>
       </td>
     </tr>
     <!-- Row 3 -->
