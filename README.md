@@ -92,7 +92,7 @@
           <img src="https://github.com/KGFCH2/KGFCH2/blob/main/Images/QuickCart.png" alt="QuickCart" />
         </a>
         <br />
-        <sub><b>QuickCart</b> — A fast and complete online shopping website.</sub>
+        <sub><b>QuickCart</b> — A fast and complete online shopping website (Version 1.0).</sub>
       </td>
       <td align="center" width="50%">
         <a href="https://github.com/KGFCH2/EchoMind" target="_blank">
