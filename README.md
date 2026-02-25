@@ -88,11 +88,11 @@
     <!-- Row 2 -->
     <tr>
       <td align="center" width="50%">
-        <a href="https://github.com/KGFCH2/BharatBus" target="_blank">
-          <img src="https://github.com/KGFCH2/KGFCH2/blob/main/Images/BharatBus.png" alt="BharatBus" />
+        <a href="https://github.com/KGFCH2/QuickCart_V1.0" target="_blank">
+          <img src="https://github.com/KGFCH2/KGFCH2/blob/main/Images/QuickCart.png" alt="QuickCart" />
         </a>
         <br />
-        <sub><b>BharatBus</b> — Modern React + TS bus booking & tracking frontend with PDF tickets, validation, and smooth animations.</sub>
+        <sub><b>QuickCart</b> — A fast and complete online shopping website.</sub>
       </td>
       <td align="center" width="50%">
         <a href="https://github.com/KGFCH2/EchoMind" target="_blank">
