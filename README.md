@@ -79,7 +79,7 @@
       </td>
       <td align="center" width="50%">
         <a href="https://github.com/KGFCH2/Babin.Portfolio" target="_blank">
-          <img src="https://github.com/KGFCH2/KGFCH2/blob/main/Images/Babin.Portfolio.png" alt="Babin.Portfolio" />
+          <img src="https://github.com/KGFCH2/KGFCH2/blob/main/Images/Babin_Portfolio.png" alt="Babin.Portfolio" />
         </a>
         <br />
         <sub><b>Babin.Portfolio</b> — My personal dev portfolio showcasing skills, achievements, and featured projects.</sub>
