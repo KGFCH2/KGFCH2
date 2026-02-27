@@ -198,13 +198,14 @@
 # 🏅 GitHub Achievements 🏅
 
 <p align="center">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="100" />
   <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="100" />
   <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="100" />
   <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="100" />
 </p>
 
 <p align="center">
-  🦈 Pull Shark x2 &nbsp; | &nbsp; 🚀 YOLO &nbsp; | &nbsp; ⚡ Quickdraw
+  ⭐ Starstruck &nbsp; | 🦈 Pull Shark x2 &nbsp; | &nbsp; 🚀 YOLO &nbsp; | &nbsp; ⚡ Quickdraw
 </p>
 </p>
 
