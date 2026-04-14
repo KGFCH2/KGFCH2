@@ -173,11 +173,12 @@
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=KGFCH2&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400)<br/><br/>
+![](https://github-readme-stats.shion.dev/api?username=KGFCH2&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=KGFCH2&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<br/>
 
-![](https://nirzak-streak-stats.vercel.app/?user=KGFCH2&theme=github_dark&hide_border=true)<br/><br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KGFCH2&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/><br/>
+![](https://streak-stats.demolab.com/?user=KGFCH2&theme=github_dark&hide_border=true)
+<br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=KGFCH2&theme=tokyo-night&bg_color=000000&color=00FFFF&line=00FFFF&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
 
