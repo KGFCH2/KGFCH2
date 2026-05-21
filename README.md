@@ -198,20 +198,25 @@
 
 # 🏅 GitHub Achievements 🏅
 
-<p align="center">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="100" />
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="100" />
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="100" />
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="100" />
-</p>
+<div align="center">
+
+<img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="100" />
+<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="100" />
+<img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="100" />
+<img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="100" />
+<img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="100" />
+
+</div>
 
 <p align="center">
-  ⭐ Starstruck &nbsp; | 🦈 Pull Shark x2 &nbsp; | &nbsp; 🚀 YOLO &nbsp; | &nbsp; ⚡ Quickdraw
-</p>
+ 🤝 Pair Extraordinaire &nbsp; | &nbsp;
+ 🦈 Pull Shark x3 &nbsp; | &nbsp;
+ 🤩 Starstruck &nbsp; | &nbsp;
+ 🚀 YOLO &nbsp; | &nbsp;
+ ⚡ Quickdraw
 </p>
 
 ---
-
 #  🤝 Connect With Me 🤝 
 
 <p align="center">
