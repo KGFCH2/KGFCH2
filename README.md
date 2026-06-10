@@ -210,7 +210,7 @@
 
 <p align="center">
  🤝 Pair Extraordinaire &nbsp; | &nbsp;
- 🦈 Pull Shark x3 &nbsp; | &nbsp;
+ 🦈 Pull Shark x4 &nbsp; | &nbsp;
  🤩 Starstruck &nbsp; | &nbsp;
  🚀 YOLO &nbsp; | &nbsp;
  ⚡ Quickdraw
